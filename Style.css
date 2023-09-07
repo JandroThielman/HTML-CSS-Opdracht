@@ -1,0 +1,43 @@
+body{
+    background-color: aquamarine;
+}
+
+h1
+{
+    color: red;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 34px;
+}
+
+p{
+    color: rebeccapurple;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 34px;
+}
+
+.mnt{
+    width: 30%;
+    height: 30%;
+}
+
+#op{
+    color: blue;   
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 34px;
+}
+
+.kk{
+    color: gold;   
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 34px;
+}
+
+.h
+{
+    width: 25%;
+    height: 25%;
+}
+
+h1,p{
+    text-align: center;
+}
